@@ -1,5 +1,5 @@
 package problem_4;
 
-public class Eclipse {
+public class Ellipse {
     
 }
