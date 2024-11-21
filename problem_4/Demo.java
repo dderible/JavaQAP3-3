@@ -11,10 +11,6 @@ public class Demo {
 
         for (Shape shape : shapes) {
             System.out.println(shape);
-        };
-
-        for (Shape shape : shapes) {
-            System.out.println(shape);
         }
 
         for (Shape shape : shapes) {
