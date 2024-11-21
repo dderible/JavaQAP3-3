@@ -1,5 +1,5 @@
 package problem_4;
 
-public class Scalable {
-    
+public interface Scalable {
+    public void scale(double factor);
 }
